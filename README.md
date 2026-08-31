@@ -79,8 +79,4 @@ Ferramenta voltada para **modding de Naruto Shippuden: Ultimate Ninja 5**.
 
 ---
 
-## 📫 Contato
-
-Se quiser conversar sobre **programação, modding ou algum projeto**, fique à vontade para entrar em contato.
-
 **Obrigado pela visita! 🚀**
